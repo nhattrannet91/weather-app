@@ -1,0 +1,22 @@
+body {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+footer {
+    margin: 16px 0;
+    border-top: 1px solid #888888;
+}
+
+nav {
+    margin: 16px 0;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+a {
+    margin-right: 16px;
+    text-decoration: none;
+}
